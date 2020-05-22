@@ -1,0 +1,8 @@
+{
+    "go.gopath": "D:\\go",
+    "go.goroot": "C:\\go",
+    "go.autocompleteUnimportedPackages": true,
+    "go.buildFlags": [
+        "CGO_ENABLED=1"
+    ]
+}
